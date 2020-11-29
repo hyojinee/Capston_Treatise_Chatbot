@@ -1,0 +1,11 @@
+{
+    "conversation" : {
+    	"url" : "https://gateway.watsonplatform.net/conversation/api",
+      "username": "apikey",
+      "password": "cNm8lKRiInmINEtnb3GyehlXZgvMH8HR-rnASGyBZ5LH",
+    	"version_date" : "2016-10-21",
+    	"version" : "v1"
+    },
+
+    "dateTimeFormat" : "HH:mm MM/DD/YYYY"
+}

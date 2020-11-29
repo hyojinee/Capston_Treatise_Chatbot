@@ -1,0 +1,11 @@
+---
+applications:
+- name: jisu
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
+  services:
+    - knock_knock
+  env:
+    NPM_CONFIG_PRODUCTION: false
